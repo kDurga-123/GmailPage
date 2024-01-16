@@ -1,0 +1,50 @@
+
+h1 {
+    color: navy;
+}
+
+.search {
+    width: 900px;
+    margin-top: 60px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 550px;
+    
+}
+
+.ListContainer {
+    height: 300px;
+    overflow-y: auto; 
+    width: 500px;
+}
+.Emails{
+    height: 50px;
+    width: 400px;
+    font-size: 20px;
+}
+.ProfileImage {
+    width: 40px;
+    height: 40px;
+    background-color: #3498db; /* You can customize the background color */
+     border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    font-size: 18px;
+}
+.closeButton{
+    height: 30px;
+    width: 30px;
+    margin-left: 250px;
+    margin-top: -20px;
+
+}
+.SelectedEmail{
+    display: flex;
+    
+}
+
+#emailStyke{
+    margin-top: 10px;
+}
